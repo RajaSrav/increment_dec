@@ -1,0 +1,16 @@
+.button{
+  text-align: center;
+  padding: 10px;
+  border: 2px solid #2dd;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: #000fff;
+  color: #ffffff;
+}
+.main_div {
+  text-align: center;
+}
+.num {
+  font-size: 33px;
+  color: #00f;
+}
